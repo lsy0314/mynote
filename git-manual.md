@@ -3,8 +3,7 @@
 
 ## download files
 ```
-git clone
-https://github.com/hjoon0510/test.git
+git clone https://github.com/hjoon0510/test.git
 cd <folder-name>
 ```
 ## edit 
