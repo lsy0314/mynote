@@ -7,9 +7,9 @@ git clone https://github.com/hjoon0510/test.git
 cd <folder-name>
 ```
 
-## add file
+## add new file
 ```bash
-touch newfile.c
+vi newfile.c
 git add newfile.c
 ```
 
@@ -22,7 +22,7 @@ ls
 
 ## backup (to github.com)
 ```bash
-git commit -a -s
+git commit -s (file name or folder name)
 git pull
 git push origin master
 -your id: ****
